@@ -1,1 +1,1 @@
-preview : http://invoice.hopto.org
+preview : http://invoices.hopto.org
